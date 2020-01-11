@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "2f2e187b9dcd379e64eb71073e7c21ec"
+build_time: [1578638899, 902216000]
+inputs:
+  "/Users/harris/Documents/UIViewControllerTransitionDemo/UIViewControllerTransitionDemo/Home/HomeNavigationController.swift": [1578638676, 635118836]
+  "/Users/harris/Documents/UIViewControllerTransitionDemo/UIViewControllerTransitionDemo/Interactive/SwipeBackInteractive.swift": [1578638314, 220461167]
+  "/Users/harris/Documents/UIViewControllerTransitionDemo/UIViewControllerTransitionDemo/MainTabBarViewController.swift": [1578635665, 907816182]
+  "/Users/harris/Documents/UIViewControllerTransitionDemo/UIViewControllerTransitionDemo/Transition/FadeInFadeOutTransition.swift": [1578635534, 678596180]
+  "/Users/harris/Documents/UIViewControllerTransitionDemo/UIViewControllerTransitionDemo/Home/HomeItemViewController.swift": [1578636822, 428272002]
+  "/Users/harris/Documents/UIViewControllerTransitionDemo/UIViewControllerTransitionDemo/AppDelegate.swift": [1578634361, 206280398]
+  "/Users/harris/Documents/UIViewControllerTransitionDemo/UIViewControllerTransitionDemo/SceneDelegate.swift": [1578634361, 210490745]
+  "/Users/harris/Documents/UIViewControllerTransitionDemo/UIViewControllerTransitionDemo/Home/HomeViewController.swift": [1578637015, 880630100]
+  "/Users/harris/Documents/UIViewControllerTransitionDemo/UIViewControllerTransitionDemo/Home/HomeAddViewController.swift": [1578636829, 516315809]
+  "/Users/harris/Documents/UIViewControllerTransitionDemo/UIViewControllerTransitionDemo/Transition/SlideFromLeftToRightTransition.swift": [1578638899, 769922072]
